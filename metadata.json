@@ -1,0 +1,7 @@
+{
+  "name": "Harmonic Soundscape Generator",
+  "description": "A minimalist web application to generate beautiful and calming harmonic sounds. Select a root note and chord type, then press the play button to create a unique soundscape.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
